@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "server": "nodemon"
+    
   },
   "keywords": [],
   "author": "Web XVI",
